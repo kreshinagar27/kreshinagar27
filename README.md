@@ -37,6 +37,12 @@ Git • GitHub • Vercel
 
 https://kreshinagar-portfolio.vercel.app
 
+## 📊 GitHub Stats
+
+![Kreshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kreshinagar27&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kreshinagar27&layout=compact&theme=tokyonight)
+
 ## 📫 Connect With Me
 
 * LinkedIn: https://linkedin.com/in/kreshi-nagar
