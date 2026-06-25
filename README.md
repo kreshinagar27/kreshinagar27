@@ -11,31 +11,17 @@ Passionate about building modern web applications, AI-powered experiences, and d
 * 🌱 Exploring AI, Machine Learning, and Cloud Technologies
 * 🚀 Building real-world projects with React, Next.js, and TypeScript
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### Frontend
-
-React • Next.js • TypeScript • Tailwind CSS
-
-### Backend
-
-Node.js • Express.js
-
-### Database
-
-MongoDB • MySQL
-
-### Languages
-
-JavaScript • TypeScript • Python
-
-### Tools
-
-Git • GitHub • Vercel
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
 ## 🌐 Portfolio
 
-https://kreshinagar-portfolio.vercel.app
+[Visit My Portfolio](https://kreshinagar-portfolio.vercel.app)
 
 ## 📊 GitHub Stats
 
@@ -43,11 +29,15 @@ https://kreshinagar-portfolio.vercel.app
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kreshinagar27&layout=compact&theme=tokyonight)
 
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kreshinagar27&theme=tokyonight)
+
 ## 📫 Connect With Me
 
 * LinkedIn: https://linkedin.com/in/kreshi-nagar
 * GitHub: https://github.com/kreshinagar27
-
+* Email: kreshinagar27@gmail.com
 ---
 
 ⭐ Always learning, building, and improving.
