@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Kreshi Nagar 👋
 
-<!--
-**kreshinagar27/kreshinagar27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Data Science Student
 
-Here are some ideas to get you started:
+Passionate about building modern web applications, AI-powered experiences, and data-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 B.Tech in Data Science
+* 💻 Student Developer
+* 🌱 Exploring AI, Machine Learning, and Cloud Technologies
+* 🚀 Building real-world projects with React, Next.js, and TypeScript
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+React • Next.js • TypeScript • Tailwind CSS
+
+### Backend
+
+Node.js • Express.js
+
+### Database
+
+MongoDB • MySQL
+
+### Languages
+
+JavaScript • TypeScript • Python
+
+### Tools
+
+Git • GitHub • Vercel
+
+## 🌐 Portfolio
+
+https://kreshinagar-portfolio.vercel.app
+
+## 📫 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/kreshi-nagar
+* GitHub: https://github.com/kreshinagar27
+
+---
+
+⭐ Always learning, building, and improving.
+
