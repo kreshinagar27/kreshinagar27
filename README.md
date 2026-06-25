@@ -1,6 +1,6 @@
 # Hi, I'm Kreshi Nagar 👋
 
-### Full Stack Developer | Data Science Student
+### Student Developer | Data Science Student
 
 Passionate about building modern web applications, AI-powered experiences, and data-driven solutions.
 
